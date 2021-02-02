@@ -13,7 +13,7 @@ middleman のディレクトリごとのサマリーを自動生成する文書�
 スナップショット：
 
 <div>
-<a href="/images/middleman-akcms-snapshot.png"><img src="/images/middleman-akcms-snapshot.png" alt="スナップショット" style="max-width: 70%"></a>
+<a href="/images/middleman-akcms-snapshot.png"><img src="/images/middleman-akcms-snapshot.png" alt="スナップショット" style="max-width: 70%"></img></a>
 </div>
 
 foo/bar/baz.html を作成すると、foo/bar/index.html, foo/index.html, index.html といったディレクトリサマリーページを自動生成します。これにより、どのリソースからも parent, children でたどることができるようになります。
