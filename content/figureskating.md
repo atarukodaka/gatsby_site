@@ -1,0 +1,5 @@
+---
+title: "フィギュアスケート"
+---
+
+figureskating
