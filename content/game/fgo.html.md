@@ -36,7 +36,7 @@ https://appmedia.jp/fategrandorder/180530
 
 ## 育成推奨
 ### エウリュアレ
-<img src="https://appmedia.jp/wp-content/uploads/2015/11/s_IMG_1378-2.jpg" width=100></img>
+<img src="https://appmedia.jp/wp-content/uploads/2015/11/s_IMG_1378-2.jpg" width="100"></img>
 
 ☆３弓。対男性魅了・宝具持ち。一部六章で有用なのと、男性特攻は使える場面が多々あるので育てておくと吉。
 
