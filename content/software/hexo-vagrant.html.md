@@ -90,16 +90,18 @@ deploy:
 ## カスタマイズ
 ### テーマ
 
-https://hexo.io/themes/ で探してよさげなのを % git clone <giturl> theme/<name> として、_config.yml で “theme = <name>” とする。 ものによってはプラグインが必要となるので、README を見つつ入れる。
+https://hexo.io/themes/ で探してよさげなのを見つつ入れる。
 
 ### プラグイン
 
 いろいろプラグインがあるみたい。
 
-tag-twitter twitter のつぶやきを取り込む：
+tag-twitter twitter のつぶやきを取り込む
+
 Middleman からの移行
 
-middleman の source/ 以下必要な記事ファイルを hexo の proj/source/_posts 以下にコピーしてきて、拡張子を .html.md から .mdに変える：
+middleman の source/ 以下必要な記事ファイルを hexo の proj/source/_posts 以下にコピーしてきて、拡張子を .html.md から .mdに変える
+
 
 ```
 $find . -type f -name "*.html.md" -print0 | while read -r -d '' file; do mv "$file" "${file%%.html.md}.md"; done
