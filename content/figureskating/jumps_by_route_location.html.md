@@ -5,7 +5,7 @@ category: figureskating
 
 ---
 
-<img src="https://pbs.twimg.com/media/B_u94hBUsAAQW64.jpg" width=600></img>
+<img src="https://pbs.twimg.com/media/B_u94hBUsAAQW64.jpg" width="600"></img>
 
 トゥジャンプはリンクを横切るように進んでフェンス手前で降りるイメージ。特にルッツをファーストジャンプに持ってくる場合は、ぐるっと外周バッククロスで回って斜めに横切ってジャンプ、ってよくあるよね。
 
