@@ -10,6 +10,6 @@ category: figureskating
 順位決定は順位点によって決定されるため、選手同士の比較も行う（相対評価）。
 マスターズパンフレットより引用：
 
-<img src="https://pbs.twimg.com/media/B9kx_JuIcAI7qFv.jpg" width="300">
+<img src="https://pbs.twimg.com/media/B9kx_JuIcAI7qFv.jpg" width="300"></img>
 
 

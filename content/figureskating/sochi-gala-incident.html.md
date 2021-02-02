@@ -24,15 +24,15 @@ date: 2018-02-28
 
 ちょうど羽生がバタフライへフォアインで入るところ：パトリックは横ちょい後ろで、前方にはある程度のスペースがあります。ほぼ同時にデニスもバタフライに入り、パトリックの視界にはそれが入りますが羽生は死角になっています。
 
-<img src="https://pbs.twimg.com/media/DXRhVXxVoAEdpIX.jpg" width="70%">
+<img src="https://pbs.twimg.com/media/DXRhVXxVoAEdpIX.jpg" width="70%"></img>
 
 パトリックはデニスの入りを見てそれを避けるため左に切り返しますが、
 
-<img src="https://pbs.twimg.com/media/DXRhpTPVMAA39wg.jpg" width="70%">
+<img src="https://pbs.twimg.com/media/DXRhpTPVMAA39wg.jpg" width="70%"></img>
 
 そこではすでに羽生がバタフライを行っており、運悪く接触してしまいました。
 
-<img src="https://pbs.twimg.com/media/DXRhrDTV4AAqoX5.jpg" width="70%">
+<img src="https://pbs.twimg.com/media/DXRhrDTV4AAqoX5.jpg" width="70%"></img>
 
 これを故意というのはかなりの無理があり、デニス・パトリックの動きを先読みしたのだとしたら、羽生はかなりのエスパーです。
 
@@ -42,6 +42,6 @@ date: 2018-02-28
 
 ステップが終わり軽く挨拶を済ませた後、羽生はパトリックに歩み寄り、手を差し出して言葉を交わしているのが伺えます。
 
-<img src="https://pbs.twimg.com/media/DXRjPpoV4AIgfh5.jpg"  width="70%">
+<img src="https://pbs.twimg.com/media/DXRjPpoV4AIgfh5.jpg"  width="70%"></img>
 
 後日パトリックが傷口をインスタかなんかで上げてたのは私も記憶しており、その後どうフォローアップされたのか定かではありませんが、少なくともその場ですぐ容態確認をしにいっています。

@@ -8,7 +8,7 @@ date: 2015-02-08
 http://fsrussia.ru/files/docs/competitons/1415/junnat1415_protocol.pdf
 （62ページ以降）
 
-<a href="http://40.media.tumblr.com/f0b70b489b9aa751c58dc00dddc8f0f7/tumblr_njgbsmWie51u5jws4o1_1280.jpg"><img src="http://40.media.tumblr.com/f0b70b489b9aa751c58dc00dddc8f0f7/tumblr_njgbsmWie51u5jws4o1_1280.jpg" width="400"></img></a>
+http://40.media.tumblr.com/f0b70b489b9aa751c58dc00dddc8f0f7/tumblr_njgbsmWie51u5jws4o1_1280.jpg
 
 推量ですけど、略語と対応するであろう特徴をまとめてみました。
 

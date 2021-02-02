@@ -20,7 +20,7 @@ twitter でつぶやいたの（[夜のフィギュアスケート語り部：�
 ## 感情表現の具体例
 バッククロスでの感情表現の種類例。いつものゆきなさんの美のテクニックより:
 
-<a href="https://pbs.twimg.com/media/B9lDFc9CMAAl72n.jpg"><img src="https://pbs.twimg.com/media/B9lDFc9CMAAl72n.jpg" width="300"></a>
+<a href="https://pbs.twimg.com/media/B9lDFc9CMAAl72n.jpg"><img src="https://pbs.twimg.com/media/B9lDFc9CMAAl72n.jpg" width="300"></img></a>
 
 まずそれぞれの動作でそれぞれの感情を表現出来ているか。演技の中途切れなく適切に表現できているか。それらが表現技術であり、「表現力がある」と言われている選手は、それらが高い精度で出来ており、バリエーションも豊富。
 
